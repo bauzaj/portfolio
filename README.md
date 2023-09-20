@@ -27,11 +27,11 @@
 - Demonstrated keen attention to detail and effective time management skills, managing multiple tasks simultaneously and adapting to changing demands and priorities.
 
 ## Projects
-### Climate Analysis
+### Food and Health
 
-The script offers a comprehensive approach to climate analysis, sourcing its data from an SQLite database (hawaii.sqlite). Utilizing Python's robust libraries, it seamlessly combines data extraction, transformation, and visualization to derive meaningful insights from climate data. The visualizations are crafted with the matplotlib library, adopting the fivethirtyeight style for clarity and intuitiveness. Advanced data manipulations are performed using numpy and pandas, while SQLAlchemy facilitates ORM-based interactions, enabling direct reflection of the measurement and station tables from the database into Python classes. This structure streamlines querying and allows for intricate analyses, such as fetching the most recent date in the dataset and examining precipitation data for the subsequent 12 months. Additionally, the script harnesses Python's datetime for efficient time-series analysis, ensuring a holistic approach to climate data interpretation.
+The "Eat Healthy" project is a comprehensive data analysis and visualization effort that delves into health metrics based on the ATUS Eating & Health (EH) Module. The EH Module was implemented from 2006 to 2008 and then resumed from 2014 to 2016. It offers detailed insights into patterns related to eating, meal preparation, and health. While data for 2015 is currently under processing and is expected to be released soon, the data collection plan extends until December 2016. Technologies used: 1) Pandas for data cleaning & manipulation. 2)Sqlalchemy to load data into PostgresSQL. 3) Flask API for fetching data. 4) Plotly for interactive browser visualizations.
 
-![Precipitation](/assets/img/.jpeg)
+![Flask](/assets/img/)
 
 ### Crowdfunding
 
@@ -39,4 +39,4 @@ This project is aimed at extracting, transforming, and loading data from various
 
 
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Categories](/assets/img/)
