@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Sqlalchemy, Apache Spark, Tableau, Microstrategy
 
 ## Education							       		
-- M.S., BAIS | The University of South Florida (_2023 - Current_)	 			        		
+- M.S., Business Analytics & Information Systems | The University of South Florida (_2023 - Current_)	 			        		
 - B.S., Consumer Economics | The University of Georgia (_2009-2013_)
    - Member of the National Society of Collegiate Scholars
 
