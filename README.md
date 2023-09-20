@@ -31,7 +31,8 @@
 
 The "Eat Healthy" project is a comprehensive data analysis and visualization effort that delves into health metrics based on the ATUS Eating & Health (EH) Module. The EH Module was implemented from 2006 to 2008 and then resumed from 2014 to 2016. It offers detailed insights into patterns related to eating, meal preparation, and health. While data for 2015 is currently under processing and is expected to be released soon, the data collection plan extends until December 2016. Technologies used: 1) Pandas for data cleaning & manipulation. 2)Sqlalchemy to load data into PostgresSQL. 3) Flask API for fetching data. 4) Plotly for interactive browser visualizations.
 
-![Flask](/assets/img/)
+![Flask_Visual](/assets/img/bmi.png)
+![Flask](/assets/img/flaskapi.png)
 
 ### Crowdfunding
 
@@ -39,4 +40,5 @@ This project is aimed at extracting, transforming, and loading data from various
 
 
 
-![Categories](/assets/img/)
+![Categories](/assets/img/crwd.png)
+![Cat_Code](/assets/img/crwdqry.png)
