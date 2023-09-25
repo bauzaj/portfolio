@@ -18,7 +18,7 @@
 
 
 ## Education							       		
-- M.S., Business Analytics & Information Systems | University of South Florida (_2023 - Current_)	 			        		
+- M.S., BAIS | University of South Florida (_2023 - Current_)	 			        		
 - B.S., Consumer Economics | University of Georgia (_2009-2013_)
    - Member of the National Society of Collegiate Scholars
 
@@ -32,7 +32,7 @@
 
 ## Projects
 ### [Home Sales](https://github.com/bauzaj/Home_Sales)
-This project is dedicated to the analysis of home sales data utilizing the powerful data processing capabilities of Spark. The notebook begins with the setup of the Spark environment, ensuring all necessary packages and dependencies, including findspark, are appropriately installed and configured. The core data is sourced from an AWS S3 bucket, demonstrating familiarity with cloud-based storage solutions. The data is loaded into a Spark DataFrame, which serves as the foundation for the subsequent analyses. The analyses includes EDA and advanced analyses that may encompass time series, regression, or clustering. The project culminates with insights derived from the data, providing actionable recommendations or observations about home sales trends.
+This project was designed to demonstrate advanced competency in leveraging Spark for in-depth analysis of home sales data. The process initiated with the meticulous configuration of the Spark environment, ensuring seamless integration of essential packages, notably findspark. Core data was sourced directly from an AWS S3 bucket, underscoring expertise in engaging with cloud storage solutions. Once ingested, the data was structured into a Spark DataFrame, establishing the foundation for robust analytical procedures. The analytical scope spanned Exploratory Data Analysis (EDA) and extended to specialized techniques such as time series, regression, and clustering analyses. The endeavor culminated in extracting insightful conclusions from the dataset, presenting actionable intelligence and discerning commentary on the dynamics of home sales trends.
 
 ![BarChart](/assets/img/homesales.png)  
 
@@ -41,9 +41,9 @@ This project is dedicated to the analysis of home sales data utilizing the power
 
 
 ### [Credit Risk](https://github.com/bauzaj/credit-risk-classification)
-This project focuses on the classification of credit risks by analyzing lending data and utilizing machine learning techniques, specifically logistic regression. The script commences with the import of essential Python libraries such as numpy, pandas, and relevant functionalities from sklearn. Lending data is loaded from a CSV file into a Pandas DataFrame, which is then separated into features and a target variable, 'loan_status', indicating whether a loan is "Healthy" or "High Risk". The dataset is subsequently partitioned into training and testing subsets. Before modeling, features are standardized to ensure they share a common scale.
+This initiative was architected to harness advanced machine learning methodologies, notably logistic regression, for the precise classification of credit risks derived from comprehensive lending data. The analytical framework was primed with the integration of pivotal Python libraries, including numpy, pandas, and select modules from sklearn. The lending dataset, sourced from a CSV file, was structured into a Pandas DataFrame and meticulously segmented into defining features and the pivotal target variable, 'loan_status', demarcating loans as either "Healthy" or "High Risk". To ensure rigorous model training, the dataset underwent stratification into distinct training and testing cohorts. Prior to modeling, a normalization procedure was executed on features to align them to a uniform scale.
 
-A logistic regression model is initially trained using the original, non-resampled data. The model's performance is evaluated on both the training and testing datasets. To address potential class imbalances, the script introduces oversampling techniques via the RandomOverSampler from the imblearn library. A new logistic regression model is then trained using this resampled data, and its efficacy is gauged using metrics such as the balanced accuracy score, confusion matrix, and a comprehensive classification report. Results suggest that the model trained with oversampled data adeptly differentiates between "Healthy" and "High Risk" loans, albeit with slightly diminished performance for the "High Risk" category.
+The preliminary phase of modeling employed a logistic regression trained on the original dataset. The model's efficacy was rigorously assessed against both training and testing subsets. Recognizing the challenges posed by class imbalances, the analytical script incorporated oversampling strategies using the RandomOverSampler from the imblearn suite. A refined logistic regression model, trained on this augmented dataset, was subsequently evaluated through metrics like the balanced accuracy score, confusion matrix, and a detailed classification assessment. The empirical findings underscored the model's proficiency in distinguishing between "Healthy" and "High Risk" loan categories, with a nuanced observation of marginally reduced performance in identifying the "High Risk" segment.
 
 ![Image](/assets/img/risk.png)
 
@@ -51,7 +51,9 @@ A logistic regression model is initially trained using the original, non-resampl
 
 
 ### [Food and Health](https://github.com/bauzaj/Eat-Health-Module)
-The "Eat Healthy" project is a comprehensive data analysis and visualization effort that delves into health metrics based on the ATUS Eating & Health (EH) Module. The EH Module was implemented from 2006 to 2008 and then resumed from 2014 to 2016. It offers detailed insights into patterns related to eating, meal preparation, and health. While data for 2015 is currently under processing and is expected to be released soon, the data collection plan extends until December 2016. Technologies used: 1) Pandas for data cleaning & manipulation. 2)Sqlalchemy to load data into PostgresSQL. 3) Flask API for fetching data. 4) Plotly for interactive browser visualizations.
+The "Eat Healthy Dashboard" serves as a vivid demonstration of proficiency in both backend and frontend development. Drawing from a PostgreSQL database, the backend, developed using Flask and sqlalchemy, provides meticulously crafted API endpoints, offering insights into health metrics such as average BMI, general health, and exercise frequency. This data-driven approach ensures that users receive accurate and meaningful insights.
+
+On the frontend, the dashboard exhibits a keen sense of design aesthetics and user experience. Utilizing sophisticated visualization libraries like Plotly and D3.js, it presents data in an interactive and dynamic manner. The design, rooted in CSS, ensures clarity and interactivity, allowing users to uncover patterns and make informed decisions about health and dietary choices. This blend of a robust backend with an intuitive frontend underscores the project's holistic approach to web development.
 
 
 ![Flask_Visual](/assets/img/bmi2.png)  
@@ -60,7 +62,7 @@ The "Eat Healthy" project is a comprehensive data analysis and visualization eff
 
 
 ### [Crowdfunding](https://github.com/bauzaj/Crowdfunding_Analysis)
-This project is aimed at extracting, transforming, and loading data from various sources into a relational database using Python, Pandas, and SQLalchemy. The project involves processing data from four different sources, including crowdfunding.xlsx, contacts.xlsx, and two CSV files created from the xlsx files. The data is processed in stages, with each stage involving a different set of tasks. The extracted data is cleaned, transformed, and merged, then loaded into the PostgreSQL database. The result is a well-organized relational database that is easy to query for analytical purposes.
+This project exemplifies a systematic approach to data integration, harnessing the capabilities of Python, Pandas, and SQLalchemy to streamline the extraction, transformation, and loading (ETL) of data into a relational database. With data sourced from multiple files, including crowdfunding.xlsx and contacts.xlsx, as well as derivative CSVs, the project orchestrates meticulous processing workflows tailored for each dataset. The data undergoes rigorous cleaning and transformation before converging into the PostgreSQL environment. The culmination is a structured relational database, primed for efficient querying and insightful analytics.
 
 
 
