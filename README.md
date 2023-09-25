@@ -2,16 +2,6 @@
 
 #### Technical Skills: Python, SQL, Sqlalchemy, Apache Spark, Tableau, Microstrategy
 
-## Education							       		
-- M.S., Business Analytics & Information Systems | The University of South Florida (_2023 - Current_)	 			        		
-- B.S., Consumer Economics | The University of Georgia (_2009-2013_)
-   - Member of the National Society of Collegiate Scholars
-
-## Certifications							       		
-- Data Science	| Rutgers University (_2022 - 2023_)
-  - Improved Python and SQL programming skills
-  - Gained experience in real-world processes using ETL, Big Data, and Machine Learning
-
 ## Work Experience
 **Account Planner @ Fanatics, Inc. (_2022 - 2023_)**
 - Engineered responsive plans for multimillion-dollar portfolios including Fortune 35 companies, Target & Costco, with a keen eye for customization and future optimization.
@@ -25,6 +15,20 @@
 **Retail Sales Merchandiser @ Advantage Solutions (_2018 - 2019_)**
 - Oversaw and optimized retail sales by analyzing client product performance, ensuring sales volume increase for leading brands across various categories. 
 - Demonstrated keen attention to detail and effective time management skills, managing multiple tasks simultaneously and adapting to changing demands and priorities.
+
+
+## Education							       		
+- M.S., Business Analytics & Information Systems | University of South Florida (_2023 - Current_)	 			        		
+- B.S., Consumer Economics | University of Georgia (_2009-2013_)
+   - Member of the National Society of Collegiate Scholars
+
+
+## Certifications							       		
+- Data Science	| Rutgers University (_2022 - 2023_)
+  - Improved Python and SQL programming skills
+  - Gained experience in real-world processes using ETL, Big Data, and Machine Learning
+
+
 
 ## Projects
 ### [Home Sales](https://github.com/bauzaj/Home_Sales)
