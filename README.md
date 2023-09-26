@@ -27,9 +27,11 @@ University of Georgia, 2009 - 2013
 
 
 ## Certifications							       		
-- Data Science	| Rutgers University (_2022 - 2023_)
+**Data Science**<br>
+  Rutgers University (_2022 - 2023_)
   - Improved Python and SQL programming skills
   - Gained experience in real-world processes using ETL, Big Data, and Machine Learning
+
 
 
 
