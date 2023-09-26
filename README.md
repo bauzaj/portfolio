@@ -18,9 +18,11 @@
 
 
 ## Education							       		
-- M.S., Business Analytics and Information Systems | University of South Florida (_2023 - Current_)	 			        		
-- B.S., Consumer Economics | University of Georgia (_2009-2013_)
-   - Member of the National Society of Collegiate Scholars
+- M.S., Business Analytics and Information Systems**<br>
+University of South Florida, 2023 - Current 			        		
+-B.S., Consumer Economics**<br>
+University of Georgia, 2009 - 2013  
+- Member of the National Society of Collegiate Scholars
 
 
 ## Certifications							       		
