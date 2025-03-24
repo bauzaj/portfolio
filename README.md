@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, Sqlalchemy, Apache Spark, Tableau, Microstrategy
+#### Technical Skills: Python, SQL, Data Analysis, BI, Process Automation, Forecasting & Predictive Analytics, Stakeholder Management, Strategic Thinking
 
 ## Work Experience
 **Data Engineer @ Fintech (2023 - )**
