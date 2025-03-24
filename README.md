@@ -3,6 +3,11 @@
 #### Technical Skills: Python, SQL, Sqlalchemy, Apache Spark, Tableau, Microstrategy
 
 ## Work Experience
+** Data Engineer @ Fintech (2023 - )**
+- Partnered with cross-functional teams to define and implement data requirements using Oracle and Databricks, ensuring data integrity across multiple projects and improving decision-making through robust data validation processes.
+- Optimized data storage and retrieval by leveraging Apache Druid for real-time analytics and Kafka for efficient data streaming, enhancing data processing speeds and access across distributed platforms.
+- •	Designed and developed scalable ETL pipelines in Databricks, integrating diverse data sources (Oracle databases, Kafka streams, Data APIs, and flat files) to create unified data models that power critical business insights.
+  
 **Account Planner @ Fanatics, Inc. (_2022 - 2023_)**
 - Engineered responsive plans for multimillion-dollar portfolios including Fortune 35 companies, Target & Costco, with a keen eye for customization and future optimization.
 - Automated forecasting for league and account performance, and future unit purchases using Python, while conducting comprehensive financial data analysis, leveraging MicroStrategy for data querying and SQL for data 
@@ -18,8 +23,8 @@
 
 
 ## Education							       		
-**M.S., Business Analytics and Information Systems**<br>
-University of South Florida, 2023 - Current
+**M.S., A.I. & Business Analytics**<br>
+University of South Florida, 2023 - 2024
 
 **B.S., Consumer Economics**<br>
 University of Georgia, 2009 - 2013  
