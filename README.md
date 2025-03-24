@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Sqlalchemy, Apache Spark, Tableau, Microstrategy
 
 ## Work Experience
-** Data Engineer @ Fintech (2023 - )**
+**Data Engineer @ Fintech (2023 - )**
 - Partnered with cross-functional teams to define and implement data requirements using Oracle and Databricks, ensuring data integrity across multiple projects and improving decision-making through robust data validation processes.
 - Optimized data storage and retrieval by leveraging Apache Druid for real-time analytics and Kafka for efficient data streaming, enhancing data processing speeds and access across distributed platforms.
 - •	Designed and developed scalable ETL pipelines in Databricks, integrating diverse data sources (Oracle databases, Kafka streams, Data APIs, and flat files) to create unified data models that power critical business insights.
